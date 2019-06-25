@@ -6,7 +6,7 @@ Topics covered:
 
 **Python** - Strings, Lists, Dictionaries, Tuples
 
-**Python** - Object oriented programming & classes 
+**Python** - Object oriented programming & classes & Decorators
 
 **Problem Solving & Efficiency** (Big O Notation) 
 
